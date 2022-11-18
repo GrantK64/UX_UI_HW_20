@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+
+.nav{
+    background-color: black;
+    padding: 1%;
+}
+
+.nav-item{
+    color: white;
+    font-family: 'Economica', sans-serif;
+    font-size: 20pt;
+}
+
+.jumbotron{
+    background-image: linear-gradient(to right, rgba(0,0,0,1), rgba(186,12,47,1));
+}
+
+.display-4{
+    font-family: 'Caveat', cursive;
+    color: white;
+}
+
+.lead{
+    font-family: 'Economica', sans-serif;
+    color: white;
+}
+
+.row{
+    padding: 1%;
+}
+
+.title{
+    font-family: 'Economica', sans-serif;
+    color: white;
+    background-color: black;
+    font-size: 35pt;
+    padding: 1%;
+}
+
+.card{
+    background-color: rgba(186,12,47,.31)
+}
+.card-title{
+    font-family: 'Economica', sans-serif;
+    color: white;
+}
+
+.card-text{
+    font-family: 'Economica', sans-serif;
+    color: white;
+}
+
+.container{
+    font-family: 'Economica', sans-serif;
+    color: white;
+}
